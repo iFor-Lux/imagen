@@ -1,4 +1,7 @@
-
+<!Dontype>
+<html>
+<Body>
+<p>
 --------------------------------------------- User Settings -------------------------------------------------------
 
 local Activate_Key        = "numlock"     -- Turn-On numlock to active the script
@@ -14,4 +17,7 @@ weapon_table["secondary"]= { Horizontal= -0.1, Vertical= 2, FireDelay= 8, AdsDel
 
 local current_weapon = "primary"          -- The Recoil-pattern you want to be activated on the start
 
------------------------------------------- END OF USER SETTINGS ---------------------------------------------------
+------------------------------------------ END OF USER SETTINGS --------------------------------------------------- 
+</p>
+</body>
+</html>
